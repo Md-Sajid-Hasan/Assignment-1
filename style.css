@@ -2,7 +2,7 @@
     font-family: 'Finlandica', sans-serif;
 }
 .orange-color{
-    color: orangered;
+    color: black;
 }
 .middle{
     text-align: center;
@@ -10,7 +10,29 @@
 .middle2{
     text-align: center;
 }
-.middle3{
-    padding-left: 10%;
-    width: 80%;
+.button{
+    border: 5%;
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+    text-decoration: none;
+    color: white;
 }
+.center{
+    text-align: center;
+    width: 95%;
+}
+.chobi{
+    width: 100%;
+}
+.paragraph{
+    text-align: center;
+    width: 100%;
+}
+.align{
+    width: 100%;
+    text-align: center;
+    padding-top: 3%;
+    padding-right: 10%;
+}
+
