@@ -81,3 +81,50 @@
 .icon{
     width: 5%;
 }
+#sbox{
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    height: 25px;
+    width: 50px;
+    background-color: silver;
+}
+#sbox2{
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    height: 25px;
+    width: 50px;
+    background-color: silver;
+}
+#sbox3{
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    height: 25px;
+    width: 50px;
+    background-color: silver;
+}
+.flex1{
+    display: flex;
+    padding-left: 41%;
+}
+.sbox{
+    text-align: center;
+    padding-top: 1%;
+}
+.sbox1{
+    text-align: center;
+    padding-top: 1%;
+}
+.sbox2{
+    text-align: center;
+    padding-top: 1%;
+}
+.sbox3{
+    text-align: center;
+    padding-top: 1%;
+}
