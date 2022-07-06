@@ -35,4 +35,37 @@
     padding-top: 3%;
     padding-right: 10%;
 }
-
+#box1{
+    height: 200px;
+    width: 200px;
+    background: blueviolet;    
+}
+#box2{
+    height: 200px;
+    width: 200px;
+    background: aqua;
+}
+#box3{
+    height: 200px;
+    width: 200px;
+    background: rosybrown;
+}
+.flex{
+    display:flex;
+    padding-left: 25%;
+}
+.box-1{
+    text-align: center;
+    padding-top: 5%;
+}
+.box-2{
+    text-align:center;
+    padding-top: 5%;
+}
+.box-3{
+    text-align: center;
+    padding-top: 5%;
+}
+.icon{
+    width: 5%;
+}
