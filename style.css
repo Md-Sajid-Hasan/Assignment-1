@@ -123,8 +123,23 @@
 .sbox2{
     text-align: center;
     padding-top: 1%;
+    border-style: solid;
+    border-color: red;
 }
 .sbox3{
     text-align: center;
     padding-top: 1%;
+}
+.h2{
+    padding-left: 31%;
+}
+.confirm{
+    text-decoration: none;
+    color: white;
+    background-color: limegreen;
+    font-size: 20px;
+    text-align: center;
+}
+.confirm1{
+    padding-left: 46%;
 }
