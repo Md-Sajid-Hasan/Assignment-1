@@ -14,7 +14,7 @@
     border: 5%;
     font-size: 20px;
     text-align: center;
-    background-color: black;
+    background-color: limegreen;
     text-decoration: none;
     color: white;
 }
@@ -36,16 +36,28 @@
     padding-right: 10%;
 }
 #box1{
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 17px;
+    margin-bottom: 5px;
     height: 200px;
     width: 200px;
     background: blueviolet;    
 }
 #box2{
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 17px;
+    margin-bottom: 5px;
     height: 200px;
     width: 200px;
     background: aqua;
 }
 #box3{
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 17px;
+    margin-bottom: 5px;
     height: 200px;
     width: 200px;
     background: rosybrown;
